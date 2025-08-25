@@ -1,0 +1,11 @@
+{
+    "associate": [
+        {
+            "id": 1,
+            "name": "SarahJan",
+            "address": "1st",
+            "creditlimit": 1000,
+            "status": true
+        }
+    ]
+}
